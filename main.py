@@ -127,7 +127,7 @@ def main(data, context):
 
 
     message = Mail(
-        from_email='andrew.s.creegan@gmail.com',
+        from_email='andrew@covid19-cases.nz',
         to_emails='andrew.s.creegan@gmail.com',
         subject='Wakefield Metals Brass Offcut Prices',
         html_content=str(table))
