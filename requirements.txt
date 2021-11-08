@@ -2,4 +2,4 @@ beautifulsoup4==4.9.1
 python-http-client==3.2.7
 sendgrid==6.4.1
 soupsieve==2.0.1
-starkbank-ecdsa==1.0.0
+starkbank-ecdsa==2.0.1
